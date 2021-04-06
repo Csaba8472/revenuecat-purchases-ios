@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "32ed79fbd252de1bde85382d24fbb550"
+build_time: [1617691739, 692752000]
+inputs:
+  "/Users/csabahuszar/Projects/dummy/purchasepod/SwiftFrameworkProxy/SwiftFrameworkProxy/SwiftFrameworkProxy.swift": [9223372036, 854775807]

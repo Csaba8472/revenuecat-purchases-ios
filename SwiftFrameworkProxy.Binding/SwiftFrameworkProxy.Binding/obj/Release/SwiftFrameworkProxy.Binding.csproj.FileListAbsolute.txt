@@ -1,0 +1,4 @@
+/Users/csabahuszar/Projects/dummy/purchasepod/SwiftFrameworkProxy.Binding/SwiftFrameworkProxy.Binding/bin/Release/NativeLibrary.dll
+/Users/csabahuszar/Projects/dummy/purchasepod/SwiftFrameworkProxy.Binding/SwiftFrameworkProxy.Binding/obj/Release/SwiftFrameworkProxy.Binding.csproj.CoreCompileInputs.cache
+/Users/csabahuszar/Projects/dummy/purchasepod/SwiftFrameworkProxy.Binding/SwiftFrameworkProxy.Binding/obj/Release/NativeLibrary.dll
+/Users/csabahuszar/Projects/dummy/purchasepod/SwiftFrameworkProxy.Binding/SwiftFrameworkProxy.Binding/obj/Release/SwiftFrameworkProxy.Binding.csprojAssemblyReference.cache

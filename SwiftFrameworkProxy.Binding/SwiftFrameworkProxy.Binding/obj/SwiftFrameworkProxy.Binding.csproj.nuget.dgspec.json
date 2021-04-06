@@ -1,0 +1,46 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/csabahuszar/Projects/dummy/purchasepod/SwiftFrameworkProxy.Binding/SwiftFrameworkProxy.Binding/SwiftFrameworkProxy.Binding.csproj": {}
+  },
+  "projects": {
+    "/Users/csabahuszar/Projects/dummy/purchasepod/SwiftFrameworkProxy.Binding/SwiftFrameworkProxy.Binding/SwiftFrameworkProxy.Binding.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/csabahuszar/Projects/dummy/purchasepod/SwiftFrameworkProxy.Binding/SwiftFrameworkProxy.Binding/SwiftFrameworkProxy.Binding.csproj",
+        "projectName": "com.hcsaba.abiap",
+        "projectPath": "/Users/csabahuszar/Projects/dummy/purchasepod/SwiftFrameworkProxy.Binding/SwiftFrameworkProxy.Binding/SwiftFrameworkProxy.Binding.csproj",
+        "packagesPath": "/Users/csabahuszar/.nuget/packages/",
+        "outputPath": "/Users/csabahuszar/Projects/dummy/purchasepod/SwiftFrameworkProxy.Binding/SwiftFrameworkProxy.Binding/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/csabahuszar/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "NuGet.Build.Packaging": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[0.2.2, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SwiftFrameworkProxy.Binding/SwiftFrameworkProxy.Binding.csproj">
+    <Files>
+      <File FileName="SwiftFrameworkProxy.Binding/ApiDefinitions.cs" Line="11" Column="3" />
+      <File FileName="SwiftFrameworkProxy.Binding/SwiftFrameworkProxy.Binding.csproj" Line="14" Column="36" />
+      <File FileName="SwiftFrameworkProxy.Binding/Properties/AssemblyInfo.cs" />
+      <File FileName="../VendorFrameworks/swift-framework-proxy/XamarinApiDef/StructsAndEnums.cs" Line="10" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SwiftFrameworkProxy.Binding" expanded="True">
+            <Node name="SwiftFrameworkProxy.Binding" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <AuthorInfo Name="Csaba Huszar" Email="csab.huszar@gmail.com" Copyright="" Company="" Trademark="" />
+</Properties>
